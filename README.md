@@ -1,2 +1,2 @@
 # KCOKER-Origin
-A display of my journey into Data Analytics
+Iowa Liquor Sales Analysis with Ms Excel
